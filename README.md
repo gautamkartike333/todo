@@ -8,5 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-[![Watch the video](https://img.youtube.com/vi/v=vaGxHtaz3o0/maxresdefault.jpg)](https://youtu.be/v=vaGxHtaz3o0)
-
+[![Watch the video](https://img.youtube.com/vi/vaGxHtaz3o0/maxresdefault.jpg)](https://youtu.be/vaGxHtaz3o0)
